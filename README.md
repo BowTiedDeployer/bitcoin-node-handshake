@@ -9,8 +9,8 @@ The handshake process is initiated by connecting to a target node, sending a ver
 1. Clone this repository:
 
 ```bash
-git clone <repository_url>
-cd <repository_name>
+git clone https://github.com/BowTiedDeployer/bitcoin-node-handshake.git
+cd bitcoin-node-handshake
 ```
 
 2. Build the project:
